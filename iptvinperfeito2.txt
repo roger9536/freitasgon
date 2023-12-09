@@ -1,0 +1,226 @@
+
+
+#EXTM3U
+#EXTINF:-1,24 Hour Free Movies	
+https://spi-filmstream-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,AMC en Español
+https://d38fxgxhpllpfu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/07877ade-de1f-4d7f-87b5-267b1dfe7df4/2.m3u8
+#EXTINF:-1,Cowboy Way	
+https://d2ut3ojckf8pd6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vof68cktqxo2s-ssai-prd/363bd310-02f7-41fa-9900-b4fb3d2d4ec2/0.m3u8
+#EXTINF:-1,4UV	
+https://d8nvujimbgz9s.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8ns94oiyg2tko/67f247d3-910b-4b19-a107-e0af58c80991/3.m3u8
+#EXTINF:-1,24 Hour Free Movies	
+https://spi-filmstream-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,CINEVAULT: Westerns	
+https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/837b2a85-1937-4c6a-8b88-8f371ed45441/1.m3u8
+#EXTINF:-1,CINEVAULT: 80's
+https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/26ec7432-0622-4955-b85e-dac1f182d1fb/1.m3u8
+#EXTINF:-1,CINEVAULT: Classics 
+https://40f8d33f8895435f9e63aa829c93bba0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_CinevaultClassics/fa8463af-fd26-496d-91bc-10e11bdc762f/1.m3u8
+#EXTINF:-1,Gravitas Movies
+https://ddniyunj92pl0.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/a657ba71-ee85-4914-9084-f37bda34ea9f/2.m3u8
+#EXTINF:-1,IMPACT Wrestling	
+https://d3mwqwqfak7y2q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/8671b4ae-2df2-44e5-b857-4c026bcb3417/0.m3u8
+#EXTINF:-1,Backstage
+https://d1w5xedouwkj5i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m8rzyzewdp4tz-prod/c82a398a-e12e-4f45-8507-edd28f43e1b3/3.m3u8
+#EXTINF:-1,Shades of Black	
+https://d27lgnqmtw3am2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wolxt6iszzx86-prod/54cd80f7-9e57-4c45-8669-f54c92edd446/3.m3u8
+#EXTINF:-1,FilmRise Free Movies	
+https://i.mjh.nz/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-ams-aws/021bd6e7-f3f3-493a-bdae-0b6e08e2dbfd/5.m3u8
+#EXTINF:-1,The Hallmark Channel
+https://d3l10ju7ii2sha.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/a066009b-d40a-4303-9bf4-8abf6371370f/3.m3u8
+#EXTINF:-1,VH1 Music
+https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=ae8506375c934e068a1dc2dbcb49551d
+#EXTINF:-1,Sony Canal Comedias
+https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/986a6666-1515-41c7-9fd9-3366a92ab91c/2.m3u8
+#EXTINF:-1,Cine Romántico 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/ee6eed16-e7c1-4f19-8ef2-16ba5d63f0eb/5.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://d30rdo6js703m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a3v4423go6bpp-ssai-prd/8f9c82b4-731c-47b0-833c-17bf3eb06099/3.m3u8
+#EXTINF:-1,The Movie Hub		
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Hollywire	
+https://di1slo8304ver.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/b56a0952-49de-4b02-acb1-bfc3c01a60a3/0.m3u8
+#EXTINF:-1,FailArmy	
+https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/1d26b8ef-75e8-48d5-ba6d-3f7ed68e0e63/2.m3u8
+#EXTINF:-1,Maverick Black Cinema 
+https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/8572b237-6ac0-4a66-bd17-97fbc8564c53/2.m3u8
+#EXTINF:-1,Sic Online	
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1,CinePIX Tv	
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1863647178.m3u8
+#EXTINF:-1,Tv Clássicos
+https://stmv1.srvif.com/canal29/canal29/chunklist_w42886886.m3u8
+#EXTINF:-1,Tv Carioca 	
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w1940171730.m3u8
+#EXTINF:-1,Classique TV	
+https://stmv1.srvif.com/classique/classique/chunklist_w1798067945.m3u8
+#EXTINF:-1,CHANNEL 1	
+https://stmv1.srvif.com/movies1/movies1/chunklist_w2033932064.m3u8
+#EXTINF:-1,Viva Web Tv	
+https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/chunklist_w151790810.m3u8
+#EXTINF:-1,Grjngo 	
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8	
+#EXTINF:-1,MyTime Movie Network Brasil	
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,AMC Brasil	
+https://s.m3u9.top/a2/hls1/amc/__index.m3u8?mu3zAQc9HC3GbwJq=wukt8VzdE2nRy9lQktUmGw&3U1G7qaTxrPbalZnEx=1702170128
+#EXTINF:-1,AXN	
+https://s.m3u9.top/a2/hls1/axn/__index.m3u8?mu3zAQc9HC3GbwJq=QAelaDwUW5xtL5pBPFeHWw&3U1G7qaTxrPbalZnEx=1702170253
+#EXTINF:-1,Séries Clássic	
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+#EXTINF:-1,AWTV	
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+#EXTINF:-1,HBO 2
+https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=1J3X5HAothbHfKKU2HXcXA&3U1G7qaTxrPbalZnEx=1702170640
+#EXTINF:-1,Megapix		
+https://s.m3u9.top/a2/hls1/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=QeD6ufN0RYon5NPrRTHpmA&3U1G7qaTxrPbalZnEx=1702170750
+#EXTINF:-1,Paramount Channel	
+https://s.m3u9.top/a2/hls1/paramount/__index.m3u8?mu3zAQc9HC3GbwJq=8jW2VjBHcXhxwAFkiZd1Fw&3U1G7qaTxrPbalZnEx=1702170852
+#EXTINF:-1,SportTV 1 PT	
+https://tvembed.net/spt1/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=763f582efc23d17c0b6db8bb311ccfc7e927ae56-dbc19d3c0f38875df515fb8afbf967d2-1702149067-1702141867
+#EXTINF:-1,Benfica TV
+https://tvembed.net/btv/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=cf50efd51f1e6eb59b352211be4754b096df87c6-5b1394f76c383e70f8e040f69e6acf7f-1702149189-1702141989
+#EXTINF:-1,Space	
+https://tvembed.net/space/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=09c73f52d637730b8991e89ef4ae4f0c9c1dcdbc-b4b00973f79397f76ac98f749a8320cf-1702149499-1702142299
+#EXTINF:-1,HBO Xtreme	
+https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=345aae9df3c9cfdc4fb76b21f21d01ed885a8bb5-ffcbf006e2a938cdfc00c409b6f022f5-1702149591-1702142391
+#EXTINF:-1,Sony	
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/279/279-3-main.m3u8
+#EXTINF:-1,Cine Adrenalina	
+https://tvembed.net/tv-adrenalina/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=4df3983bdd47e8ab9528cb9d9f81bbe68555dd67-3b2a41de1aa9b7738d6e6821df1f03a0-1702149812-1702142612
+#EXTINF:-1,Cine Sucessos 	
+https://tvembed.net/filme-sucessos/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=ef0c70f6031f623fb2d16a3a9c0af227ece96826-68d28671100b56133cb1c9730c173e1e-1702149889-1702142689
+#EXTINF:-1,Telecine Pipoca	
+https://s.m3u9.top/a2/hls1/telecinepipoca/__index.m3u8?mu3zAQc9HC3GbwJq=SBkusTnqix2yQdaNXOAEig&3U1G7qaTxrPbalZnEx=1702171906
+#EXTINF:-1,A&E	
+https://s.m3u9.top/a2/hls1/aie/__index.m3u8?mu3zAQc9HC3GbwJq=2psZruPnbkExfSyYcITY-A&3U1G7qaTxrPbalZnEx=1702172043
+#EXTINF:-1,Animal Planet
+https://s.m3u9.top/a2/hls1/animalplanet/__index.m3u8?mu3zAQc9HC3GbwJq=flGu3zIACtXHzOz70YCYVQ&3U1G7qaTxrPbalZnEx=1702172184
+#EXTINF:-1,Cinecanal
+https://s.m3u9.top/a2/hls1/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=Azkgv1rquaPJSno2qB9CTQ&3U1G7qaTxrPbalZnEx=1702172269
+#EXTINF:-1,Cinemax	
+https://s.m3u9.top/a2/hls1/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=_-P2l8U32sRKQhHoelKK1g&3U1G7qaTxrPbalZnEx=1702172355
+#EXTINF:-1,ISTV	
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w1527016526.m3u8
+#EXTINF:-1,XNXX.COM
+https://cdn77-vid.xnxx-cdn.com/ADLpqcSzFyrqcOxi2qic2g==,1702154648/videos/hls/1c/0c/b0/1c0cb087dd5475cccd70d23a20412fb5/hls-720p-a8926.m3u8
+#EXTINF:-1, XNXX.COM 2	
+https://cdn77-vid.xnxx-cdn.com/LxAIIZvhldo9SzD1YRFh5A==,1702154758/videos/hls/31/c4/9f/31c49f0054e7bc347e52b34b64d30dde/hls-720p-8f399.m3u8
+#EXTINF:-1,SIC		
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1, TVI 	
+https://video-auth1.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=916585039&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDU6NTQ6MzQgUE0maGFzaF92YWx1ZT1lMk5RaU1WbTJFaUw3UXZMWWFSQWFBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDg0NmEyZjQtNjkwMi00ZTRhLThlYWEtYjc0NjNmODdiNTgz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
